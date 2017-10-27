@@ -43,6 +43,14 @@ func (t Tabla) crearOr(variables int)  {
 
 }
 
-func alternador(cantidad, longitud int)  {
+/*Dada una logintud y una cantidad
+Implementar la función que permita alternar los valores del arrreglo 0 y 1
+Ejemplo:
+cantidad: 2  y longitud 8
+
+[0 0 1 1 0 0 1 1]
+
+*/
+func alternador(cantidad, longitud int) (array []int)  {
 
 }
